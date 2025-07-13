@@ -1,11 +1,26 @@
 
-<p align="center">
+<table>
+  <tr>
+    <td>
+
+# 💫 About Me:  
+🔭 I’m currently working on real-world AI/ML projects that don’t suck  <br>
+👯 I’m looking to collaborate on impactful open-source + research collabs  <br>
+🤝 I’m looking for help with scaling AI systems & efficient deployment  <br>
+🌱 I’m currently learning advanced GenAI + system-level optimizations  <br>
+💬 Ask me about Linux setups, AI workflows, or just how to vibe clean  <br>
+⚡ Fun fact: I write code, play mridangam, and still outpace sleep<br>
+
+    </td>
+    <td>
+
+<p>
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Pizza Ninja Programmer"/>
 </p>
 
-
-# 💫 About Me:
-🔭 I’m currently working on real-world AI/ML projects that don’t suck  <br>👯 I’m looking to collaborate on impactful open-source + research collabs  <br>🤝 I’m looking for help with scaling AI systems & efficient deployment  <br>🌱 I’m currently learning advanced GenAI + system-level optimizations  <br>💬 Ask me about Linux setups, AI workflows, or just how to vibe clean  <br>⚡ Fun fact: I write code, play mridangam, and still outpace sleep<br>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
