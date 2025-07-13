@@ -27,7 +27,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=herohero149&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/AqVx0YGEyRajOI3Pkm/giphy.gif" width="300" alt="Relax Computer GIF"/>
 </p>
 
