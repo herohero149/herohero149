@@ -1,18 +1,15 @@
-<p>
-  <span style="float:left; width:65%;">
-    # 💫 About Me:<br>
-    🔭 I’m currently working on real-world AI/ML projects that don’t suck  <br>
-    👯 I’m looking to collaborate on impactful open-source + research collabs  <br>
-    🤝 I’m looking for help with scaling AI systems & efficient deployment  <br>
-    🌱 I’m currently learning advanced GenAI + system-level optimizations  <br>
-    💬 Ask me about Linux setups, AI workflows, or just how to vibe clean  <br>
-    ⚡ Fun fact: I write code, play mridangam, and still outpace sleep<br>
-  </span>
-  <span style="float:right; width:30%;">
-    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Pizza Ninja Programmer"/>
-  </span>
+<p align="center">
+  <img src="https://media.giphy.com/media/11OlEyIaGC6Jsk/giphy.gif" width="750" alt="K Saitama Power" />
 </p>
 
+
+# 💫 About Me:  
+🔭 I’m currently working on real-world AI/ML projects that don’t suck  <br>
+👯 I’m looking to collaborate on impactful open-source + research collabs  <br>
+🤝 I’m looking for help with scaling AI systems & efficient deployment  <br>
+🌱 I’m currently learning advanced GenAI + system-level optimizations  <br>
+💬 Ask me about Linux setups, AI workflows, or just how to vibe clean  <br>
+⚡ Fun fact: I write code, play mridangam, and still outpace sleep<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/adithyasrivats) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1d.a.7e8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-srivatsa-85764b344) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adithyasrivatsa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adithyaaelius) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/AdithyaSrivatsa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archlinuxadithya@gmail.com) 
@@ -32,10 +29,19 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=herohero149&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="right">
-  <img src="https://media.giphy.com/media/AqVx0YGEyRajOI3Pkm/giphy.gif" width="300" alt="Relax Computer GIF"/>
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://media.giphy.com/media/zv5hGv7XEMmXKMAI5R/giphy.gif" width="250" alt="Left GIF" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/WD01fV9KSg4Vw3DYWc/giphy.gif" width="250" alt="Center GIF" />
+    </td>
+    <td align="right">
+      <img src="https://media.giphy.com/media/AqVx0YGEyRajOI3Pkm/giphy.gif" width="250" alt="Right GIF" />
+    </td>
+  </tr>
+</table>
 
 ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adithyasrivatsa) 
